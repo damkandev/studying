@@ -1,0 +1,2 @@
+# Javascript Studying
+Una de las mejores formas para tomar apuntes en  programación es hacerlo directamente en archivos del lenguaje de programación, esto si ira en conjunto a las clases de Notion, que puedes encontrar dando [click aqui](https://damkann.notion.site/Panel-de-Control-Estudiante-2cf38fa4e9bf44e79ecd6c7ea8d8f47b).
