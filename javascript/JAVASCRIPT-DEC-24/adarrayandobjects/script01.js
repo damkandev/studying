@@ -5,7 +5,9 @@ const letterFre = (frase) => {
     let resultado = []
     
     for(let i = 0; i < frase.length; i++){
-        console.log("x")
+        for(let o = 0; o < 4; o++){
+            console.log(o)
+        }
         /*for(let o = 0; i < frase.length; o++){
             if(frase[i] == frase[o]){
                 resultado.push(frase[i], frase[o])
