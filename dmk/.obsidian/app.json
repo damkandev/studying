@@ -1,0 +1,43 @@
+{
+  "spellcheckDictionary": [
+    "Navigation",
+    "BurpSuite",
+    "BurpSuite",
+    "New",
+    "Scan",
+    "request",
+    "proxy",
+    "proxy",
+    "Options",
+    "Proxy",
+    "forward",
+    "cURL",
+    "intercept",
+    "is",
+    "on",
+    "history",
+    "WebSocket",
+    "History",
+    "Intercept",
+    "based on",
+    "the",
+    "following",
+    "rules",
+    "Or",
+    "Request",
+    "Was",
+    "Intercepted",
+    "Connection",
+    "Through",
+    "and",
+    "Replace",
+    "REGEX",
+    "devolvera"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

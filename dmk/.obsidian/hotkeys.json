@@ -1,0 +1,30 @@
+{
+  "obsidian-languagetool-plugin:ltcheck-text": [],
+  "obsidian-languagetool-plugin:ltautocheck-text": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-languagetool-plugin:ltclear": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}
